@@ -167,14 +167,14 @@ Focus: defense design space for external interaction attacks, internal cognitive
 ## Citation
 If you find this survey useful, please cite:
 ```bibtex
-@article{202602.1655,
-	doi = {10.20944/preprints202602.1655.v1},
-	url = {https://doi.org/10.20944/preprints202602.1655.v1},
+@article{202603.1179,
+	doi = {10.20944/preprints202603.1179.v1},
+	url = {https://doi.org/10.20944/preprints202603.1179.v1},
 	year = 2026,
-	month = {February},
+	month = {March},
 	publisher = {Preprints},
-	author = {Yinggang Sun and Haining Yu and Wei Jiang and Xiangzhan Yu and Dongyang Zhan and Lixu Wang and Siyue Ren and Yue Sun and Tianqing Zhu},
-	title = {A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures},
+	author = {Kaiyan Zhao and Zhe Sun and Lihua Yin and Tianqing Zhu},
+	title = {Attacks and Defenses in Differentially Private Deep Learning: New Security Risks in New Era},
 	journal = {Preprints}
 }
 ```
