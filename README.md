@@ -36,7 +36,7 @@ With the rapid advancement of deep learning, differential privacy has become a k
 ## Risks in DP-DL
 Focus: attacks on the agent-environment interface, including tool metadata manipulation and environment/data injection.
 
-![External Interaction Attacks](assets/Risk_Analysis_Framework.png)
+![Risks in DP-DL](assets/Risk_Analysis_Framework.png)
 
 ## Attacks on DP-DL systems
 Focus: attacks on planning, reasoning, memory, and model internals, with persistent and covert effects.
@@ -58,7 +58,7 @@ Focus: defense design space for external interaction attacks, internal cognitive
 
 ## Paper List
 
-### External Interaction Attacks
+### Risks in DP-DL
 - AdvAgent: Controllable Blackbox Red-teaming on Web Agents, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=AdvAgent%3A%20Controllable%20Blackbox%20Red-teaming%20on%20Web%20Agents)]
 - EIA: ENVIRONMENTAL INJECTION ATTACK ON GENERALIST WEB AGENTS FOR PRIVACY LEAKAGE, The Thirteenth International Conference on Learning Representations 2025.01 [[paper](https://scholar.google.com/scholar?q=EIA%3A%20ENVIRONMENTAL%20INJECTION%20ATTACK%20ON%20GENERALIST%20WEB%20AGENTS%20FOR%20PRIVACY%20LEAKAGE)]
 - Wipi: A new web threat for llm-driven web agents, arXiv 2024.02 [[paper](https://arxiv.org/abs/2402.16965)]
@@ -67,7 +67,7 @@ Focus: defense design space for external interaction attacks, internal cognitive
 - Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools, The Thirty-ninth Annual Conference on Neural Information Processing Systems 2025.01 [[paper](https://scholar.google.com/scholar?q=Attractive%20Metadata%20Attack%3A%20Inducing%20LLM%20Agents%20to%20Invoke%20Malicious%20Tools)]
 - Prompt Injection Attack to Tool Selection in LLM Agents, arXiv 2025.04 [[paper](https://arxiv.org/abs/2504.19793)]
 
-### Internal Cognitive Attacks
+### Attacks on DP-DL systems
 - UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=UDora%3A%20A%20Unified%20Red%20Teaming%20Framework%20against%20LLM%20Agents%20by%20Dynamically%20Hijacking%20Their%20Own%20Reasoning)]
 - Breaking agents: Compromising autonomous llm agents through malfunction amplification, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.01 [[paper](https://scholar.google.com/scholar?q=Breaking%20agents%3A%20Compromising%20autonomous%20llm%20agents%20through%20malfunction%20amplification)]
 - Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents, The Thirty-eighth Annual Conference on Neural Information Processing Systems 2024.01 [[paper](https://scholar.google.com/scholar?q=Watch%20Out%20for%20Your%20Agents%21%20Investigating%20Backdoor%20Threats%20to%20LLM-Based%20Agents)]
@@ -81,7 +81,7 @@ Focus: defense design space for external interaction attacks, internal cognitive
 - Compromising llm driven embodied agents with contextual backdoor attacks, IEEE Transactions on Information Forensics and Security 2025.01 [[paper](https://scholar.google.com/scholar?q=Compromising%20llm%20driven%20embodied%20agents%20with%20contextual%20backdoor%20attacks)]
 - Demonagent: Dynamically encrypted multi-backdoor implantation attack on llm-based agent, arXiv 2025.02 [[paper](https://arxiv.org/abs/2502.12575)]
 
-### Multi-Agent Collaboration Attacks
+### Defenses for DP-DL systems
 - Prompt infection: Llm-to-llm prompt injection within multi-agent systems, arXiv 2024.10 [[paper](https://arxiv.org/abs/2410.07283)]
 - Corba: Contagious recursive blocking attacks on multi-agent systems based on large language models, arXiv 2025.02 [[paper](https://arxiv.org/abs/2502.14529)]
 - Agents under siege: Breaking pragmatic multi-agent llm systems with optimized prompt attacks, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2025.01 [[paper](https://scholar.google.com/scholar?q=Agents%20under%20siege%3A%20Breaking%20pragmatic%20multi-agent%20llm%20systems%20with%20optimized%20prompt%20attacks)]
