@@ -69,7 +69,7 @@ Focus: defense design space for external interaction attacks, internal cognitive
 - Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe, In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023.07 [[paper](https://aclanthology.org/2023.acl-long.74/)]
 - Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation, In The Twelfth International Conference on Learning Representations 2024.01 [[paper](https://openreview.net/forum?id=oZtt0pRnOl)]
 - Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning, arXiv 2024.06 [[paper](https://arxiv.org/abs/2406.14322)]
-
+- In Differential Privacy, There is Truth: on Vote-Histogram Leakage in Ensemble Private Learning, arXiv 2022.09 [[paper](https://arxiv.org/abs/2209.10732)]
 ### Attacks on DP-DL systems
 - UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=UDora%3A%20A%20Unified%20Red%20Teaming%20Framework%20against%20LLM%20Agents%20by%20Dynamically%20Hijacking%20Their%20Own%20Reasoning)]
 - Breaking agents: Compromising autonomous llm agents through malfunction amplification, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.01 [[paper](https://scholar.google.com/scholar?q=Breaking%20agents%3A%20Compromising%20autonomous%20llm%20agents%20through%20malfunction%20amplification)]
@@ -83,6 +83,8 @@ Focus: defense design space for external interaction attacks, internal cognitive
 - BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2024.01 [[paper](https://scholar.google.com/scholar?q=BadAgent%3A%20Inserting%20and%20Activating%20Backdoor%20Attacks%20in%20LLM%20Agents)]
 - Compromising llm driven embodied agents with contextual backdoor attacks, IEEE Transactions on Information Forensics and Security 2025.01 [[paper](https://scholar.google.com/scholar?q=Compromising%20llm%20driven%20embodied%20agents%20with%20contextual%20backdoor%20attacks)]
 - Demonagent: Dynamically encrypted multi-backdoor implantation attack on llm-based agent, arXiv 2025.02 [[paper](https://arxiv.org/abs/2502.12575)]
+- Monitoring-Based Differential Privacy Mechanism Against Query Flooding-Based Model Extraction Attack. IEEE Transactions on Dependable and Secure Computing 2022.07 [[paper](https://ieeexplore.ieee.org/document/9389670)]
+- The optimal upper bound of the number of queries for Laplace mechanism under differential privacy, Inf. Sci. 2019.11  [[paper]([https://arxiv.org/abs/2502.12575](https://www.sciencedirect.com/science/article/abs/pii/S0020025519306085?via%3Dihub))]
 
 ### Defenses for DP-DL systems
 - Prompt infection: Llm-to-llm prompt injection within multi-agent systems, arXiv 2024.10 [[paper](https://arxiv.org/abs/2410.07283)]
