@@ -59,13 +59,16 @@ Focus: defense design space for external interaction attacks, internal cognitive
 ## Paper List
 
 ### Risks in DP-DL
-- AdvAgent: Controllable Blackbox Red-teaming on Web Agents, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=AdvAgent%3A%20Controllable%20Blackbox%20Red-teaming%20on%20Web%20Agents)]
-- EIA: ENVIRONMENTAL INJECTION ATTACK ON GENERALIST WEB AGENTS FOR PRIVACY LEAKAGE, The Thirteenth International Conference on Learning Representations 2025.01 [[paper](https://scholar.google.com/scholar?q=EIA%3A%20ENVIRONMENTAL%20INJECTION%20ATTACK%20ON%20GENERALIST%20WEB%20AGENTS%20FOR%20PRIVACY%20LEAKAGE)]
-- Wipi: A new web threat for llm-driven web agents, arXiv 2024.02 [[paper](https://arxiv.org/abs/2402.16965)]
-- AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.05849)]
-- Imprompter: Tricking llm agents into improper tool use, arXiv 2024.10 [[paper](https://arxiv.org/abs/2410.14923)]
-- Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools, The Thirty-ninth Annual Conference on Neural Information Processing Systems 2025.01 [[paper](https://scholar.google.com/scholar?q=Attractive%20Metadata%20Attack%3A%20Inducing%20LLM%20Agents%20to%20Invoke%20Malicious%20Tools)]
-- Prompt Injection Attack to Tool Selection in LLM Agents, arXiv 2025.04 [[paper](https://arxiv.org/abs/2504.19793)]
+- Resisting structural re-identification in anonymized social networks, VLDB J 2010.12, [[paper](https://doi.org/10.1007/s00778-010-0210-x)]
+- Applications of Differential Privacy in Social Network Analysis: A Survey, IEEE Trans. Knowl. Data Eng. 2023.01 [[paper](https://doi.org/10.1109/TKDE.2021.3073062)]
+- Applications of deep learning for the analysis of medical data, Archives of pharmacal research 2019.06 [[paper](https://link.springer.com/article/10.1007/s12272-019-01162-9)]
+- Dataset correlation inference attacks against machine learning models, arXiv 2021.12 [[paper](https://arxiv.org/abs/2112.08806)]
+- Exploiting attribute correlation for reconstruction attacks on differentially private multi-attributed data, Journal of Information Security and Applications 2025.11 [[paper](https://www.sciencedirect.com/science/article/pii/S2214212625002613?via%3Dihub)]
+- Large Language Models Can Be Strong Differentially Private Learners, arXiv 2021.10 [[paper](https://arxiv.org/abs/2110.05679)]
+- Differentially Private Fine-tuning of Language Models, In The Tenth International Conference on Learning Representations 2022.01 [[paper](https://openreview.net/forum?id=Q42f0dfjECO)]
+- Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe, In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023.07 [[paper](https://aclanthology.org/2023.acl-long.74/)]
+- Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation, In The Twelfth International Conference on Learning Representations 2024.01 [[paper](https://openreview.net/forum?id=oZtt0pRnOl)]
+- Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning, arXiv 2024.06 [[paper](https://arxiv.org/abs/2406.14322)]
 
 ### Attacks on DP-DL systems
 - UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=UDora%3A%20A%20Unified%20Red%20Teaming%20Framework%20against%20LLM%20Agents%20by%20Dynamically%20Hijacking%20Their%20Own%20Reasoning)]
