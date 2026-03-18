@@ -1,23 +1,23 @@
 # Attacks and Defenses in Differentially Private Deep Learning: New Security Risks in New Era
-<a href="https://www.preprints.org/manuscript/202602.1655" 
+<a href="https://www.preprints.org/manuscript/202603.1179" 
    target="_blank" 
    style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
    📥 Download Full Paper (PDF)
 </a>
 
-![Agent Architecture and Threat Taxonomy](assets/fig2-new.png)
+![structure_of_survey](structure_of_survey.png)
 With the rapid advancement of deep learning, differential privacy has become a key technique for protecting sensitive data with a formal guarantee of privacy. By injecting noise and enforcing privacy budgets, differentially private deep learning (DP-DL) systems are able to protect individual data points yet still maintain a model’s utility. However, recent studies reveal that DP-DL systems can be vulnerable to different types of attacks throughout their lifecycle. Naturally, this has attracted the attention of both academia and industry. Critically, these risks are not the same as those associated with traditional deep learning. This is because the differential privacy mechanism itself introduces new attack surfaces that adversaries can exploit. Our work focuses on the distinct vulnerabilities that can arise at the data, algorithm, and architecture levels. By analyzing representative attacks and corresponding defenses, this survey highlights emerging challenges and outlines promising research directions. Overall, our aim is to make differential privacy more robust and deployable in real-world deep learning systems.
 
 **📍 This survey systematically examines attacks and defenses on DP-DL systems from three perspectives: data level, algorithm level, and architecture level.**
 
 
 ## Update Records
-- 2026-02-26: The first version of our survey has been released on preprints.
+- 2026-03-16: The first version of our survey has been released on preprints.
 
 ## Table of Contents
-- [External Interaction Attacks](#external-interaction-attacks)
-- [Internal Cognitive Attacks](#internal-cognitive-attacks)
-- [Multi-Agent Collaboration Attacks](#multi-agent-collaboration-attacks)
+- [Risks in DP-DL](#Risks-in-DP-DL)
+- [Attacks on DP-DL systems](#Attacks-on-DP-DL-systems)
+- [Defenses for DP-DL systems](#Defenses-for-DP-DL-systems)
 - [Defenses](#defenses)
 - [Update Records](#update-records)
 - [Paper List](#paper-list)
