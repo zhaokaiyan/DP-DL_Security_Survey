@@ -21,9 +21,9 @@ With the rapid advancement of deep learning, differential privacy has become a k
 - [Defenses](#defenses)
 - [Update Records](#update-records)
 - [Paper List](#paper-list)
-  - [External Interaction Attacks](#external-interaction-attacks-1)
-  - [Internal Cognitive Attacks](#internal-cognitive-attacks-1)
-  - [Multi-Agent Collaboration Attacks](#multi-agent-collaboration-attacks-1)
+  - [Risks in DP-DL](#Risks-in-DP-DL)
+  - [Attacks on DP-DL systems](#Attacks-on-DP-DL-systems)
+  - [Defenses for DP-DL systems](#Defenses-for-DP-DL-systems)
   - [Defenses against External Interaction Attacks](#defenses-against-external-interaction-attacks)
   - [Defenses against Internal Cognitive Attacks](#defenses-against-internal-cognitive-attacks)
   - [Defenses against Multi-Agent Collaboration Attacks](#defenses-against-multi-agent-collaboration-attacks)
@@ -33,17 +33,17 @@ With the rapid advancement of deep learning, differential privacy has become a k
 - [Acknowledgement](#acknowledgement)
 - [Contact Us](#contact-us)
 
-## External Interaction Attacks
+## Risks in DP-DL
 Focus: attacks on the agent-environment interface, including tool metadata manipulation and environment/data injection.
 
 ![External Interaction Attacks](assets/survey-3.png)
 
-## Internal Cognitive Attacks
+## Attacks on DP-DL systems
 Focus: attacks on planning, reasoning, memory, and model internals, with persistent and covert effects.
 
 ![Internal Cognitive Attacks](assets/survey-4.png)
 
-## Multi-Agent Collaboration Attacks
+## Defenses for DP-DL systems
 Focus: attacks on communication, coordination logic, and role trust in multi-agent systems.
 
 ![Multi-Agent Collaboration Attacks](assets/survey-5.png)
