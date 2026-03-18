@@ -36,7 +36,7 @@ With the rapid advancement of deep learning, differential privacy has become a k
 ## Risks in DP-DL
 Focus: attacks on the agent-environment interface, including tool metadata manipulation and environment/data injection.
 
-![External Interaction Attacks](assets/survey-3.png)
+![External Interaction Attacks](assets/Risk_Analysis_Framework.png)
 
 ## Attacks on DP-DL systems
 Focus: attacks on planning, reasoning, memory, and model internals, with persistent and covert effects.
