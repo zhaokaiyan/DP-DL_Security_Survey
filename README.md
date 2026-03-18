@@ -5,7 +5,7 @@
    📥 Download Full Paper (PDF)
 </a>
 
-![structure_of_survey](structure_of_survey.png)
+![structure_of_survey](assets/structure_of_survey.png)
 With the rapid advancement of deep learning, differential privacy has become a key technique for protecting sensitive data with a formal guarantee of privacy. By injecting noise and enforcing privacy budgets, differentially private deep learning (DP-DL) systems are able to protect individual data points yet still maintain a model’s utility. However, recent studies reveal that DP-DL systems can be vulnerable to different types of attacks throughout their lifecycle. Naturally, this has attracted the attention of both academia and industry. Critically, these risks are not the same as those associated with traditional deep learning. This is because the differential privacy mechanism itself introduces new attack surfaces that adversaries can exploit. Our work focuses on the distinct vulnerabilities that can arise at the data, algorithm, and architecture levels. By analyzing representative attacks and corresponding defenses, this survey highlights emerging challenges and outlines promising research directions. Overall, our aim is to make differential privacy more robust and deployable in real-world deep learning systems.
 
 **📍 This survey systematically examines attacks and defenses on DP-DL systems from three perspectives: data level, algorithm level, and architecture level.**
