@@ -100,7 +100,7 @@ Focus: compare defense techniques for DP-DL, outlining their related literature,
 - Local Differential Privacy Is Not Enough: A Sample Reconstruction Attack Against Federated Learning With Local Differential Privacy, IEEE TIFS 2025, [[paper](https://doi.org/10.1109/TIFS.2024.3515793)]
 - Does Differential Privacy Really Protect Federated Learning From Gradient Leakage Attacks?, IEEE TMC 2024, [[paper](https://doi.org/10.1109/TMC.2024.3417930)]
 - Reconstructing Individual Data Points in Federated Learning Hardened with Differential Privacy and Secure Aggregation, EuroS&P 2023.07, [[paper](https://doi.org/10.1109/EUROSP57164.2023.00023)]
-- Auditing differentially private machine learning: how private is private SGD?. In Proceedings of the 34th International Conference on Neural Information Processing Systems 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/fc4ddc15f9f4b4b06ef7844d6bb53abf-Paper.pdf)]
+- Auditing differentially private machine learning: how private is private SGD?, In Proceedings of the 34th International Conference on Neural Information Processing Systems 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/fc4ddc15f9f4b4b06ef7844d6bb53abf-Paper.pdf)]
 - Threats to Training: A Survey of Poisoning Attacks and Defenses on Machine Learning Systems, ACM Computing Surveys 2023.12, [[paper](https://doi.org/10.1145/3538707)]
 
 ### Attacks on DP-DL systems
