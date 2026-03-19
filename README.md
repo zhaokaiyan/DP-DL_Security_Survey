@@ -56,6 +56,22 @@ Focus: compare defense techniques for DP-DL, outlining their related literature,
 
 ## Paper List
 
+### Multi-level DP-DL Frameworks
+- RRN: A Differential Private Approach to Preserve Privacy in Image Classification, IET Image Processing 2023 [[paper](https://doi.org/10.1049/IPR2.12784)]
+- LDP-Feat: Image Features with Local Differential Privacy, ICCV 2023.10 [[paper](https://doi.org/10.1109/ICCV51070.2023.01612)]
+- Deep Learning with Label Differential Privacy, NeurIPS 2021.12 [[paper](https://proceedings.neurips.cc/paper/2021/hash/e3a54649aeec04cf1c13907bc6c5c8aa-Abstract.html)]
+- Antipodes of Label Differential Privacy: PATE and ALIBI, NeurIPS 2021.12 [[paper](https://proceedings.neurips.cc/paper/2021/hash/37ecd27608480aa3569a511a638ca74f-Abstract.html)]
+- Differentially Private Sequential Data Synthesis with Structured State Space Models and Diffusion Models, NeurIPS SafeGenAI Workshop 2024 [[paper](https://openreview.net/forum?id=ntsBXjkjm7)]
+- From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis, IEEE S&P 2025.05 [[paper](https://doi.org/10.1109/SP61157.2025.00217)]
+- PrivSyn: Differentially Private Data Synthesis, USENIX Security 2021.08 [[paper](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-zhikun)]
+- A Critical Review on the Use (and Misuse) of Differential Privacy in Machine Learning, ACM Computing Surveys 2022 [[paper](https://doi.org/10.1145/3547139)]
+- Deep Learning with Differential Privacy, CCS 2016.10 [[paper](https://doi.org/10.1145/2976749.2978318)]
+- Differentially-Private Deep Learning from an Optimization Perspective, INFOCOM 2019.04 [[paper](https://doi.org/10.1109/INFOCOM.2019.8737494)]
+- Differentially Private Deep Learning with Dynamic Privacy Budget Allocation and Adaptive Optimization, IEEE TIFS 2023 [[paper](https://doi.org/10.1109/TIFS.2023.3293961)]
+- DPNAS: Neural Architecture Search for Deep Learning with Differential Privacy, AAAI 2022.02 [[paper](https://doi.org/10.1609/AAAI.V36I6.20586)]
+- Toward Training at ImageNet Scale with Differential Privacy, arXiv 2022.01 [[paper](https://arxiv.org/abs/2201.12328)]
+- The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation, ICML 2021.07 [[paper](http://proceedings.mlr.press/v139/kairouz21a.html)]
+
 ### Risks in DP-DL
 - Resisting structural re-identification in anonymized social networks, VLDB J 2010.12, [[paper](https://doi.org/10.1007/s00778-010-0210-x)]
 - Applications of Differential Privacy in Social Network Analysis: A Survey, IEEE Trans. Knowl. Data Eng. 2023.01 [[paper](https://doi.org/10.1109/TKDE.2021.3073062)]
@@ -154,74 +170,6 @@ Focus: compare defense techniques for DP-DL, outlining their related literature,
 - Differentially Private and Heterogeneity-Robust Federated Learning with Theoretical Guarantee, IEEE TAI 2024 [[paper](https://doi.org/10.1109/TAI.2024.3446759)]
 - DP-FedEwc: Differentially Private Federated Elastic Weight Consolidation for Model Personalization, Knowledge-Based Systems 2024 [[paper](https://doi.org/10.1016/j.knosys.2024.112401)]
 
-#### Defenses against External Interaction Attacks 
-- Promptarmor: Simple yet effective prompt injection defenses, arXiv 2025.07 [[paper](https://arxiv.org/abs/2507.15219)]
-- To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt, 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S) 2025.01 [[paper](https://scholar.google.com/scholar?q=To%20Protect%20the%20LLM%20Agent%20Against%20the%20Prompt%20Injection%20Attack%20with%20Polymorphic%20Prompt)]
-- IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems, NDSS 2025.01 [[paper](https://scholar.google.com/scholar?q=IsolateGPT%3A%20An%20Execution%20Isolation%20Architecture%20for%20LLM-Based%20Agentic%20Systems)]
-- AirGapAgent: Protecting Privacy-Conscious Conversational Agents, Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security 2024.01 [[paper](https://scholar.google.com/scholar?q=AirGapAgent%3A%20Protecting%20Privacy-Conscious%20Conversational%20Agents)]
-- CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents, arXiv 2026.01 [[paper](https://arxiv.org/abs/2601.09923)]
-- The task shield: Enforcing task alignment to defend against indirect prompt injection in llm agents, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2025.01 [[paper](https://scholar.google.com/scholar?q=The%20task%20shield%3A%20Enforcing%20task%20alignment%20to%20defend%20against%20indirect%20prompt%20injection%20in%20llm%20agents)]
-- MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents, Proceedings of the 42nd International Conference on Machine Learning (ICML) 2025.01 [[paper](https://scholar.google.com/scholar?q=MELON%3A%20Provable%20Defense%20Against%20Indirect%20Prompt%20Injection%20Attacks%20in%20AI%20Agents)]
-- ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=ShieldAgent%3A%20Shielding%20Agents%20via%20Verifiable%20Safety%20Policy%20Reasoning)]
-- Ipiguard: A novel tool dependency graph-based defense against indirect prompt injection in llm agents, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.01 [[paper](https://scholar.google.com/scholar?q=Ipiguard%3A%20A%20novel%20tool%20dependency%20graph-based%20defense%20against%20indirect%20prompt%20injection%20in%20llm%20agents)]
-- DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents, arXiv 2025.06 [[paper](https://arxiv.org/abs/2506.12104)]
-- ALRPHFS: Adversarially Learned Risk Patterns with Hierarchical Fast& Slow Reasoning for Robust Agent Defense, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.19260)]
-
-#### Defenses against Internal Cognitive Attacks
-- Your Agent Can Defend Itself against Backdoor Attacks, arXiv 2025.06 [[paper](https://arxiv.org/abs/2506.08336)]
-- A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents, arXiv 2025.06 [[paper](https://arxiv.org/abs/2506.23844)]
-- Get Experience from Practice: LLM Agents with Record & Replay, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.17716)]
-- Check Yourself Before You Wreck Yourself: Selectively Quitting Improves LLM Agent Safety, arXiv 2025.10 [[paper](https://arxiv.org/abs/2510.16492)]
-- A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory, arXiv 2025.10 [[paper](https://arxiv.org/abs/2510.02373)]
-- Agentsafe: Safeguarding large language model-based multi-agent systems via hierarchical data management, arXiv 2025.03 [[paper](https://arxiv.org/abs/2503.04392)]
-- Memory Poisoning Attack and Defense on Memory Based LLM-Agents, arXiv 2026.01 [[paper](https://arxiv.org/abs/2601.05504)]
-- AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning, arXiv 2025.10 [[paper](https://arxiv.org/abs/2510.01586)]
-- Real ai agents with fake memories: Fatal context manipulation attacks on web3 agents, arXiv 2025.03 [[paper](https://arxiv.org/abs/2503.16248)]
-
-#### Defenses against Multi-Agent Collaboration Attacks
-- G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2025.01 [[paper](https://scholar.google.com/scholar?q=G-Safeguard%3A%20A%20Topology-Guided%20Security%20Lens%20and%20Treatment%20on%20LLM-based%20Multi-agent%20Systems)]
-- GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.19234)]
-- Blindguard: Safeguarding llm-based multi-agent systems under unknown attacks, arXiv 2025.08 [[paper](https://arxiv.org/abs/2508.08127)]
-- INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems, arXiv 2026.01 [[paper](https://arxiv.org/abs/2601.14667)]
-- Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems, arXiv 2025.07 [[paper](https://arxiv.org/abs/2507.04724)]
-- MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.20824)]
-- 2025 IEEE International Conference on Information Reuse and Integration and Data Science (IRI), 2025 IEEE International Conference on Information Reuse and Integration and Data Science (IRI) 2025.01 [[paper](https://scholar.google.com/scholar?q=2025%20IEEE%20International%20Conference%20on%20Information%20Reuse%20and%20Integration%20and%20Data%20Science%20%28IRI%29)]
-- On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=On%20the%20Resilience%20of%20LLM-Based%20Multi-Agent%20Collaboration%20with%20Faulty%20Agents)]
-- Enhancing robustness of LLM-driven multi-agent systems through randomized smoothing, Chinese Journal of Aeronautics 2025.01 [[paper](https://scholar.google.com/scholar?q=Enhancing%20robustness%20of%20LLM-driven%20multi-agent%20systems%20through%20randomized%20smoothing)]
-- CoTGuard: Using Chain-of-Thought Triggering for Copyright Protection in Multi-Agent LLM Systems, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.19405)]
-
-#### Security Frameworks
-- Aios: Llm agent operating system, arXiv 2024.03 [[paper](https://arxiv.org/abs/2403.16971)]
-- IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems, NDSS 2025.01 [[paper](https://scholar.google.com/scholar?q=IsolateGPT%3A%20An%20Execution%20Isolation%20Architecture%20for%20LLM-Based%20Agentic%20Systems)]
-- Airgapagent: Protecting privacy-conscious conversational agents, Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security 2024.01 [[paper](https://scholar.google.com/scholar?q=Airgapagent%3A%20Protecting%20privacy-conscious%20conversational%20agents)]
-- Security of ai agents, 2025 IEEE/ACM International Workshop on Responsible AI Engineering (RAIE) 2025.01 [[paper](https://scholar.google.com/scholar?q=Security%20of%20ai%20agents)]
-- TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution, Trustworthy Multi-modal Foundation Models and AI Agents (TiFA) 2024.01 [[paper](https://scholar.google.com/scholar?q=TrustAgent%3A%20Towards%20Safe%20and%20Trustworthy%20LLM-based%20Agents%20through%20Agent%20Constitution)]
-- ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=ShieldAgent%3A%20Shielding%20Agents%20via%20Verifiable%20Safety%20Policy%20Reasoning)]
-- Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods, Forty-second International Conference on Machine Learning Position Paper Track 2025.01 [[paper](https://scholar.google.com/scholar?q=Position%3A%20Trustworthy%20AI%20Agents%20Require%20the%20Integration%20of%20Large%20Language%20Models%20and%20Formal%20Methods)]
-- AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement, Scaling Self-Improving Foundation Models without Human Supervision 2025.01 [[paper](https://scholar.google.com/scholar?q=AgentBreeder%3A%20Mitigating%20the%20AI%20Safety%20Impact%20of%20Multi-Agent%20Scaffolds%20via%20Self-Improvement)]
-- Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents, arXiv 2025.06 [[paper](https://arxiv.org/abs/2506.07388)]
-- Securing agentic ai: A comprehensive threat model and mitigation framework for generative ai agents, arXiv 2025.04 [[paper](https://arxiv.org/abs/2504.19956)]
-- Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems, arXiv 2025.09 [[paper](https://arxiv.org/abs/2509.14956)]
-- Llamafirewall: An open source guardrail system for building secure ai agents, arXiv 2025.05 [[paper](https://arxiv.org/abs/2505.03574)]
-
-#### Security Benchmarks
-- AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents, The Thirteenth International Conference on Learning Representations 2025.01 [[paper](https://scholar.google.com/scholar?q=AgentHarm%3A%20A%20Benchmark%20for%20Measuring%20Harmfulness%20of%20LLM%20Agents)]
-- OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety, arXiv 2025.07 [[paper](https://arxiv.org/abs/2507.06134)]
-- Agentauditor: Human-level safety and security evaluation for llm agents, arXiv 2025.06 [[paper](https://arxiv.org/abs/2506.00641)]
-- Ali-agent: Assessing llms' alignment with human values via agent-based evaluation, Advances in Neural Information Processing Systems 2024.01 [[paper](https://scholar.google.com/scholar?q=Ali-agent%3A%20Assessing%20llms%27%20alignment%20with%20human%20values%20via%20agent-based%20evaluation)]
-- Identifying the Risks of LM Agents with an LM-Emulated Sandbox, The Twelfth International Conference on Learning Representations 2024.01 [[paper](https://scholar.google.com/scholar?q=Identifying%20the%20Risks%20of%20LM%20Agents%20with%20an%20LM-Emulated%20Sandbox)]
-- Agentdojo: A dynamic environment to evaluate prompt injection attacks and defenses for llm agents, Advances in Neural Information Processing Systems 2024.01 [[paper](https://scholar.google.com/scholar?q=Agentdojo%3A%20A%20dynamic%20environment%20to%20evaluate%20prompt%20injection%20attacks%20and%20defenses%20for%20llm%20agents)]
-- ToolFuzz--Automated Agent Tool Testing, arXiv 2025.03 [[paper](https://arxiv.org/abs/2503.04479)]
-- Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents, The Thirteenth International Conference on Learning Representations 2025.01 [[paper](https://scholar.google.com/scholar?q=Agent%20Security%20Bench%20%28ASB%29%3A%20Formalizing%20and%20Benchmarking%20Attacks%20and%20Defenses%20in%20LLM-based%20Agents)]
-- Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools, The Thirty-ninth Annual Conference on Neural Information Processing Systems 2025.01 [[paper](https://scholar.google.com/scholar?q=Attractive%20Metadata%20Attack%3A%20Inducing%20LLM%20Agents%20to%20Invoke%20Malicious%20Tools)]
-- WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks, ICML 2025 Workshop on Computer Use Agents 2025.01 [[paper](https://scholar.google.com/scholar?q=WASP%3A%20Benchmarking%20Web%20Agent%20Security%20Against%20Prompt%20Injection%20Attacks)]
-- Dissecting Adversarial Robustness of Multimodal LM Agents, The Thirteenth International Conference on Learning Representations 2025.01 [[paper](https://scholar.google.com/scholar?q=Dissecting%20Adversarial%20Robustness%20of%20Multimodal%20LM%20Agents)]
-- ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=ShieldAgent%3A%20Shielding%20Agents%20via%20Verifiable%20Safety%20Policy%20Reasoning)]
-- Redcode: Risky code execution and generation benchmark for code agents, Advances in Neural Information Processing Systems 2024.01 [[paper](https://scholar.google.com/scholar?q=Redcode%3A%20Risky%20code%20execution%20and%20generation%20benchmark%20for%20code%20agents)]
-- Breaking the code: Security assessment of ai code agents through systematic jailbreaking attacks, arXiv 2025.10 [[paper](https://arxiv.org/abs/2510.01359)]
-- CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities, Proceedings of the 42nd International Conference on Machine Learning (ICML) 2025.01 [[paper](https://scholar.google.com/scholar?q=CVE-Bench%3A%20A%20Benchmark%20for%20AI%20Agents%27%20Ability%20to%20Exploit%20Real-World%20Web%20Application%20Vulnerabilities)]
-- SafeArena: Evaluating the Safety of Autonomous Web Agents, Forty-second International Conference on Machine Learning 2025.01 [[paper](https://scholar.google.com/scholar?q=SafeArena%3A%20Evaluating%20the%20Safety%20of%20Autonomous%20Web%20Agents)]
-- AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents, Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025) Datasets and Benchmarks Track 2025.01 [[paper](https://scholar.google.com/scholar?q=AgentDAM%3A%20Privacy%20Leakage%20Evaluation%20for%20Autonomous%20Web%20Agents)]
 
 ## Citation
 If you find this survey useful, please cite:
