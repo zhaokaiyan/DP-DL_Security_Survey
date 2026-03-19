@@ -122,7 +122,7 @@ Focus: compare defense techniques for DP-DL, outlining their related literature,
 - GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search, IEEE TIFS 2025 [[paper](https://doi.org/10.1109/TIFS.2025.3589127)]
 - Evaluating Privacy Loss in Differential Privacy Based Federated Learning, Future Generation Computer Systems 2025 [[paper](https://doi.org/10.1016/j.future.2025.107848)]
 - Auditing differentially private machine learning: how private is private SGD?. In Proceedings of the 34th International Conference on Neural Information Processing Systems 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/fc4ddc15f9f4b4b06ef7844d6bb53abf-Paper.pdf)]
-- - Mean Aggregator Is More Robust than Robust Aggregators under Label Poisoning Attacks on Distributed Heterogeneous Data, JMLR 2025 [[paper](http://jmlr.org/papers/v26/27.html)]
+- Mean Aggregator Is More Robust than Robust Aggregators under Label Poisoning Attacks on Distributed Heterogeneous Data, JMLR 2025 [[paper](http://jmlr.org/papers/v26/27.html)]
 - Manipulation Attacks in Local Differential Privacy, IEEE S&P 2021.05 [[paper](https://doi.org/10.1109/SP40001.2021.00001)]
 - On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy, arXiv 2025.09 [[paper](https://arxiv.org/abs/2509.05265)]
 - DP-Poison: Poisoning Federated Learning under the Cover of Differential Privacy, ACM Transactions on Privacy and Security 2025 [[paper](https://doi.org/10.1145/3702325)]
