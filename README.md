@@ -15,10 +15,10 @@ With the rapid advancement of deep learning, differential privacy has become a k
 - 2026-03-16: The first version of our survey has been released on preprints.
 
 ## Table of Contents
+- [Multi-level DP-DL Frameworks](#Multi-level-DP-DL-Frameworks)
 - [Risks in DP-DL](#Risks-in-DP-DL)
 - [Attacks on DP-DL systems](#Attacks-on-DP-DL-systems)
 - [Defenses for DP-DL systems](#Defenses-for-DP-DL-systems)
-- [Defenses](#defenses)
 - [Update Records](#update-records)
 - [Paper List](#paper-list)
   - [Risks in DP-DL](#Risks-in-DP-DL)
@@ -33,27 +33,25 @@ With the rapid advancement of deep learning, differential privacy has become a k
 - [Acknowledgement](#acknowledgement)
 - [Contact Us](#contact-us)
 
+## Multi-level DP-DL Frameworks
+Focus: introduce a multi-level framework for integrating differential privacy into deep learning at the data, algorithm, and architecture levels.
+
+![multi-level_DP-DL](assets/multi-level_DP-DL.png)
+
 ## Risks in DP-DL
-Focus: attacks on the agent-environment interface, including tool metadata manipulation and environment/data injection.
+Focus: present a risk analysis framework for DP-DL, highlighting privacy risks across data, algorithm, and architecture levels.
 
 ![Risks in DP-DL](assets/Risk_Analysis_Framework.png)
 
 ## Attacks on DP-DL systems
-Focus: attacks on planning, reasoning, memory, and model internals, with persistent and covert effects.
+Focus: summarize different types of attacks on DP-DL, including their corresponding literature, visibility settings, and evaluation metrics.
 
-![Internal Cognitive Attacks](assets/survey-4.png)
+![Attacks](assets/Attacks.png)
 
 ## Defenses for DP-DL systems
-Focus: attacks on communication, coordination logic, and role trust in multi-agent systems.
+Focus: compare defense techniques for DP-DL, outlining their related literature, targeted threats, and protection capabilities.
 
-![Multi-Agent Collaboration Attacks](assets/survey-5.png)
-
-## Defenses
-Focus: defense design space for external interaction attacks, internal cognitive attacks, and multi-agent collaboration attacks.
-
-![Defenses](assets/survey-6.png)
-
-
+![Defenses](assets/Defenses.png)
 
 
 ## Paper List
