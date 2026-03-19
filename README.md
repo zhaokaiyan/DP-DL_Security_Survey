@@ -12,7 +12,7 @@ With the rapid advancement of deep learning, differential privacy has become a k
 
 
 ## Update Records
-- 2026-03-16: The first version of our survey has been released on preprints.
+- 2026-03-15: The first version of our survey has been released on preprints.
 
 ## Table of Contents
 - [Multi-level DP-DL Frameworks](#Multi-level-DP-DL-Frameworks)
